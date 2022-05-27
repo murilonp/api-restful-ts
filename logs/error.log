@@ -1,0 +1,10 @@
+2022-05-23 14:40:19:4019 - [31merror[39m: [31mConexão com o banco não efetuada[39m
+2022-05-23 14:40:19:4019 - [31merror[39m: [31mERRO: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.em00q.mongodb.net[39m
+2022-05-23 14:41:22:4122 - [31merror[39m: [31mConexão com o banco não efetuada[39m
+2022-05-23 14:41:22:4122 - [31merror[39m: [31mquerySrv ENOTFOUND _mongodb._tcp.cluster0.em00q.mongodb.net[39m
+2022-05-27 15:56:06:566 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-05-27 15:56:16:5616 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-05-27 15:58:48:5848 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-05-27 16:00:58:058 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-05-27 16:03:46:346 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-05-27 16:03:53:353 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
